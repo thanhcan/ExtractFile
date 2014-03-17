@@ -11,3 +11,4 @@ Trích xuất dữ liệu
 + Output File: ThanhBTT_20140317_NOUN.tsv
 + Thời gian tách từ         ~9 phút
 + Thời gian đánh chỉ mục từ ~50 phút
++ ' main() ' class trong ExtractFile.java
